@@ -1,9 +1,10 @@
+import React from 'react';
 import './App.css';
 
 function App() {
     return ( 
     <div className='App'>
-        <h2>Hello World, this is React on Redux</h2>
+    <h2>Hello World, this is React on Redux</h2>
     </div>
 );
 }
